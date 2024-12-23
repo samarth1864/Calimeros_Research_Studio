@@ -1,0 +1,3 @@
+Mapping the Invisible
+
+To predict unknown climatic data points across the city, a Random Forest Decision Tree method is employed, leveraging its accuracy and robustness in handling complex datasets. This approach uses existing IoT sensor data and applies feature engineering to enrich the dataset. By triangulating data with these parameters, the model ensures precise predictions for unmonitored locations, enabling accurate insights for the identified locations.
