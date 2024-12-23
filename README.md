@@ -1,5 +1,8 @@
 # Calimeros_Research_Studio
 
+Green Liminals: Feasibility Study for AI-Driven Budget Optimization for Urban Sustainable Solutions
+Team member(s): Virgilio Diaz, Misra Ozgok Genc, Samarth Pachchigar, Eleni Ntagkouli and Shree Bhargava Sangam
+
 The project explores innovative ways to address Barcelona’s sustainability challenges, such as carbon emissions, air pollution, and energy inefficiency.
 By leveraging AI, IoT sensors, and Nature-Based Solutions (NBS), the project aims to optimize municipal budgets for interventions that transform underutilized urban spaces into productive assets.
 
